@@ -1,19 +1,32 @@
-# Hi, I'm Angel! 👋🏻
+<p align="center">
 
-🎓 BSc CSIT student  
-💻 Learning full-stack web development  
-🌱 Currently exploring the MERN stack
+# ˚₊‧ Hi, I'm Angel! 👋🏻 ‧₊˚
+
+</p>
+
+<p align="center">
+  <i>BSc CSIT student • full stack developer • learner</i>
+</p>
+
+<p align="center">
+ 
+  💻 building with MERN & TypeScript
+  <br>
+  👩‍💻 learning by building, breaking & fixing things
+</p>
+
+<br>
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 📖 Languages
 
 [![My Skills](https://skillicons.dev/icons?i=c,cs,js,ts)](https://skillicons.dev)
 
-### Web & Backend
+### 🌐 Web & Backend
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb)](https://skillicons.dev)
 
-### Tools
+### 🧰 Tools
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman)](https://skillicons.dev)

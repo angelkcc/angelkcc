@@ -1,3 +1,4 @@
+![Angel's GitHub Banner](./banner.jpg)
 # Hii, I'm Angel 👋
 
 

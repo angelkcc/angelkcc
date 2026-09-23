@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hii, I'm Angel 🪽
 
-<!--
-**angelkcc/angelkcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+💻 BSc CSIT student  
+🌱 Currently learning MERN Stack  
+🧩 Interested in web development & software engineering  
+🚀 Building, breaking, fixing, and learning along the way
+📍 Nepal
+
+

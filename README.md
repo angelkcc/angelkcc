@@ -1,4 +1,4 @@
-# Hii, I'm Angel 🪽
+# Hii, I'm Angel 👋
 
 
 

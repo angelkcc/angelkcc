@@ -21,7 +21,8 @@
 
 ### 📖 Languages
 
-[![My Skills](https://skillicons.dev/icons?i=c,cs,js,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,js,ts,php,python)](https://skillicons.dev)
+
 
 ### 🌐 Web & Backend
 
